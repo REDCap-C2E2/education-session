@@ -64,8 +64,8 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "REDCap Hub on GitHub":
-    - "//github.com/redcap-c2e2/redcaphub.github.io"
+  "REDCap.org":
+    - "https://www.project-redcap.org/"
     
 
 # Makes Aux links open in a new tab. Default is false
