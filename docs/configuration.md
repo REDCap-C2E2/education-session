@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Important links
+title: Configuration
 nav_order: 2
 ---
 
