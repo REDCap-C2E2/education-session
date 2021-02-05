@@ -6,10 +6,14 @@ description: "Just the Docs is a responsive Jekyll theme with built-in search th
 permalink: /
 ---
 
-# Focus on writing good documentation
+# Welcome to REDCap Hub!
 {: .fs-9 }
 
-Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
+REDCap Hub is a site providing support to REDCap users in the form of informational excerpts and examples of work with particular REDCap features and examples of best practices when it comes to data management.
+{: .fs-6 .fw-300 }
+
+REDCap: Research Electronic Data Capture (REDCap) is a rapidly evolving web tool developed by researchers for researchers in the translational domain.
+REDCap features a high degree of customizability for your forms and advanced user right control. It also features free, unlimited survey functionality, a sophisticated export module with support for all the popular statistical programs.
 {: .fs-6 .fw-300 }
 
 [Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
