@@ -14,8 +14,9 @@ REDCap: Research Electronic Data Capture (REDCap) is a rapidly evolving web tool
 REDCap features a high degree of customizability for your forms and advanced user right control. It also features free, unlimited survey functionality, a sophisticated export module with support for all the popular statistical programs.
 {: .fs-6 .fw-300 }
 
-[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
-
+```[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
+```
+[REDCap Overview](https://redcap.c2e2.ca/surveys/?s=TTFNCANPPN){: .btn .fs-5 .mb-4 .mb-md-0 }
 ---
 
 ## Getting started
