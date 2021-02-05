@@ -10,8 +10,6 @@ permalink: /
 {: .fs-9 }
 
 REDCap Hub is a site providing support to REDCap users in the form of informational excerpts and examples of work with particular REDCap features and examples of best practices when it comes to data management.
-REDCap: Research Electronic Data Capture (REDCap) is a rapidly evolving web tool developed by researchers for researchers in the translational domain.
-REDCap features a high degree of customizability for your forms and advanced user right control. It also features free, unlimited survey functionality, a sophisticated export module with support for all the popular statistical programs.
 {: .fs-6 .fw-300 }
 
 [REDCap Overview](https://redcap.c2e2.ca/surveys/?s=TTFNCANPPN)
