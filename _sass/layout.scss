@@ -119,6 +119,9 @@
   padding-bottom: $sp-3;
   color: $body-heading-color;
   @include fs-6;
+  background-image: url(logo-small.png);
+	background-position: 0 0;
+	background-repeat: no-repeat;
 
   @include mq(md) {
     padding-top: $sp-2;
