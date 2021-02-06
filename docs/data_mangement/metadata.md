@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Data Management
-nav_order: 1
-has_children: true
+title: Metadata
+parent: Data Management
+nav_order: 2
 ---
