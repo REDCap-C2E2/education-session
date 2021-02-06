@@ -60,7 +60,7 @@ search:
   button: false
       
 # Enable or disable heading anchors
-heading_anchors: false
+heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
