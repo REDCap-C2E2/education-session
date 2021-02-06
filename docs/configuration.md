@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Test
+title: Configuration
 nav_order: 2
 ---
 
