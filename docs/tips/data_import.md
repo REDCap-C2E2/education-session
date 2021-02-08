@@ -12,7 +12,7 @@ There are two primary options for importing data in to your REDCap project.
 {: .no_toc }
 
 ## Data Import Options
-{: .no_toc .text-delta }
+
 
 1. TOC
 {:toc}
