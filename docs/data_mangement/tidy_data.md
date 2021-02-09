@@ -20,4 +20,4 @@ REDCap allows us to collect our data in a standard way (preknown structure) whic
 
 More information can be found in the following links below via REDCap and supplementary articles.
 
-[Tidy Data](https://redcap.c2e2.ca/surveys/?s=D8JPNY3PCN){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Tidy Data](https://redcap.c2e2.ca/surveys/?s=D8JPNY3PCN){: .btn .fs-5 .mb-4 .mb-md-0 } [Additional Atricle](https://vita.had.co.nz/papers/tidy-data.pdf){: .btn .fs-5 .mb-4 .mb-md-0 }
