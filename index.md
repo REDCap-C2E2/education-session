@@ -26,9 +26,13 @@ Research Electronic Data Capture (REDCap) is a rapidly evolving web tool develop
 
 ### Instance available in the area
 
-1. [REDCap UBC](https://arc.ubc.ca/redcap)
+1. [UBC ARC REDCAP](https://arc.ubc.ca/redcap)
 
+2. [UBC ARC REDCap Flex](https://redcap.ubc.ca/flex/)
 
+3. [UBC ARC REDCAP Solid](https://redcap.ubc.ca/solid/)
+
+4. [BC AHSN](https://redcap.bcahsn.ca/surveys/?s=HEKETN7RF7)
 ---
 
 ## About the project
