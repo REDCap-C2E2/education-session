@@ -18,7 +18,7 @@ Eoin Vaughan
 
 Centre for Clinical Epidemiology and Evaluation
 
-VCH Research Institute | The University of British Columbia
+VCH Research Institute / The University of British Columbia
 
 706 - 828 West 10th Avenue, Vancouver, BC V5Z 1M9
 
