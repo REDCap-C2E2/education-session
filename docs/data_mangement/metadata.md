@@ -10,6 +10,7 @@ nav_order: 2
 
 ## _"Data about data"_
 
+---
 
 Metadata is information that describes a resource/object. An example of a resource in our setting would be a tool/software/program like REDCap that aides your work while an object would represent a dataset. Metadata should add context to data by clarifying the “Who? What? When? Where? Why?” about our datasets. An individual should know what the dataset is about, who it's meant for, how to use it, and subsequently interpret it as a result of inspecting metadata.
 
