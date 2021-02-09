@@ -5,6 +5,7 @@ nav_order: 3
 has_children: true
 ---
 
-Data Import tool allows a user to bulk upload records into REDCap all at once.
+# Tips and Tricks
+{: .no_toc }
 
-Adding context to missing values
+This page hopes to provide useful tips and tricks that will help users when working with REDCap. Posts will range from making use of REDCap features related to data collection and project management, best practices to follow when designing/building your projects, and general considerations to make when providing continued support for your projects.
