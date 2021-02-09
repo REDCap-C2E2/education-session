@@ -6,7 +6,7 @@ nav_order: 2
 ---
 
 # Missing Code Values
-{: .no_toc }
+{: .no_toc }{: .d-inline-block }
 
 New
 {: .label .label-yellow }
