@@ -8,7 +8,7 @@ nav_order: 1
 # Tidy Data
 {: .no_toc }
 
-## _"Orgnanised and Consistent"_
+## _"Organised and Consistent"_
 
 ---
 
