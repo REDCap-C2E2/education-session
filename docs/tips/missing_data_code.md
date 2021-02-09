@@ -14,7 +14,7 @@ nav_order: 2
 
 Handling missing values after data collection is seen as a common task in data cleaning and data processing pre-analysis.
 
-We don't want to report/infer inaccurate insight form our data so this is a very important step to take. Luckily REDCap prospectively allows us to consider missing values during the data collection component of a project. Within REDCap we have the control to specify and add context to missing values by stating the reason behind a missing value. This helps our future selfs and results in a more reliable dataset for analysis.
+We don't want to report/infer inaccurate insights from our collected data so this is a very important step to take. Luckily REDCap prospectively allows us to consider missing values during the data collection component of a project. Within REDCap we have the control to specify and add context to missing values by stating the reason behind a missing value. This helps our future selfs and results in a more reliable dataset for analysis.
 
 More information can be found in the following link below via REDCap.
 
