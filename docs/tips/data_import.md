@@ -17,11 +17,13 @@ There are two primary options for importing data in to your REDCap project.
 1. TOC
 {:toc}
 
+---
+
 ## 1. Data import tool 
 
 Manual Import into REDCap via a CSV file (or excel file saved as a CSV).
 
-
+---
 
 ## 2. API based import
 
