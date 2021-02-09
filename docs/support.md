@@ -22,3 +22,12 @@ Working with REDCap, or considering working with REDCap for your research projec
 Well here is your opportunity to "Ask the Expert" anything that you've struggled with, bugged you, or just piqued your curiosity.
 
 [Ask the Expert](https://redcap.c2e2.ca/surveys/?s=NXEKCND4AE){: .btn .fs-5 .mb-4 .mb-md-0 }
+
+---
+
+## Consultation?
+{: .d-inline-block }
+
+You can complete the C2E2 consultation form to request assistance with your research projects. C2E2 provides many services of which data collection and data mangement with a particular emphasis on REDCap are available.
+
+[Consultation form](https://redcap.c2e2.ca/surveys/?s=ADYYRNLJFM){: .btn .fs-5 .mb-4 .mb-md-0 }
