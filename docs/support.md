@@ -16,6 +16,7 @@ Data management is also provided with guidance on “Best Practices” and “SO
 ## Ask questions?
 {: .d-inline-block }
 
+
 Working with REDCap, or considering working with REDCap for your research project?
 
 Well here is your opportunity to "Ask the Expert" anything that you've struggled with, bugged you, or just piqued your curiosity.
