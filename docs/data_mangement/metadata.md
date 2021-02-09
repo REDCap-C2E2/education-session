@@ -16,4 +16,8 @@ Metadata is information that describes a resource/object. An example of a resour
 
 Metadata should result in better discovery and reusability of your datasets. Metadata itself is a type of data that requires creation, storage, curation, and preservation like any other type of data. Therefore metadata needs to be built into the workflow of a project. It plays a major role in facilitating efficient research data management.
 
-Find more information below.
+More information can be found below.
+
+---
+
+[Metadata](https://redcap.c2e2.ca/surveys/?s=J94T3PTM33){: .btn .fs-5 .mb-4 .mb-md-0 }
