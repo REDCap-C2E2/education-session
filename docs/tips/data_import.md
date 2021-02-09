@@ -28,13 +28,12 @@ REDCaps Data Import tool allows a user to bulk upload records into REDCap all at
 
 Manual Import into REDCap via a CSV file (or excel file saved as a CSV).
 
-[Data Import Tool](https://redcap.c2e2.ca/surveys/?s=DLT9TCWTL4)
+[Data Import Tool](https://redcap.c2e2.ca/surveys/?s=DLT9TCWTL4){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
 ## API based import
 
-Programmatically upload data in an autonomous way.
-
 API' stands for 'Application Programming Interface'. An API is just a defined way for a program to accomplish a task. The REDCap API is an interface that allows external applications to connect to REDCap remotely, and is used for programmatically retrieving or modifying data or settings within REDCap, such as performing automated data imports/exports for a specified REDCap project.
 
+Make use of the `Import Records` API method to programmatically import data into a REDCap project in an autonomous manner.
