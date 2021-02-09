@@ -7,8 +7,7 @@ nav_order: 7
 # Contact
 {: .no_toc }
 
-REDCap administrator
-`Eoin Vaughan`
+REDCap administrator:[Eoin Vaughan](eoin.vaughan@ubc.ca)
 
 ---
 
