@@ -20,13 +20,13 @@ There are two primary options for importing data in to your REDCap project.
 
 ---
 
-## 1. Data import tool 
+## Data import tool 
 
 Manual Import into REDCap via a CSV file (or excel file saved as a CSV).
 
 ---
 
-## 2. API based import
+## API based import
 
 Programmatically upload data in an autonomous way.
 
