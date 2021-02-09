@@ -14,6 +14,8 @@ There are two primary options for importing data in to your REDCap project.
 ## Data Import Options
 {: .no_toc .text-delta }
 
+{:toc}
+
 ---
 
 ## 1. Data import tool 
