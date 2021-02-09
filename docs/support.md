@@ -20,3 +20,5 @@ Data management is also provided with guidance on “Best Practices” and “SO
 Working with REDCap, or considering working with REDCap for your research project?
 
 Well here is your opportunity to "Ask the Expert" anything that you've struggled with, bugged you, or just piqued your curiosity.
+
+[Ask the Expert](https://redcap.c2e2.ca/surveys/?s=NXEKCND4AE){: .btn .fs-5 .mb-4 .mb-md-0 }
