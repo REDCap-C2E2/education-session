@@ -38,7 +38,7 @@ Research Electronic Data Capture (REDCap) is a rapidly evolving web tool develop
 
 ## About the project
 
-REDCap Hub is provided and supported by 2020-{{ "now" | date: "%Y" }} by [C2E2](http://www.c2e2.ca/).
+REDCap Hub is provided and supported by by [C2E2](http://www.c2e2.ca/) 2020-{{ "now" | date: "%Y" }}.
 
 
 
