@@ -10,6 +10,10 @@ nav_order: 6
 REDCap administrator
 Eoin Vaughan
 
+Tel: `604.875.4111 ext. 67417` | 
+Email: <eoin.vaughan@ubc.ca>   |
+
+
 ---
 
 # Contact Information
@@ -24,4 +28,3 @@ Hrs: Mon - Fri: 8am to 4pm
 
 ---
 
-Tel: `604.875.4111 ext. 67417` | Email: <eoin.vaughan@ubc.ca>
