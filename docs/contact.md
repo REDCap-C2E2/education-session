@@ -8,13 +8,9 @@ nav_order: 7
 {: .no_toc }
 
 REDCap administrator
-Eoin Vaughan
-
-| Tel: `604.875.4111 ext. 67417` | Email: <eoin.vaughan@ubc.ca> |
+`Eoin Vaughan`
 
 ---
-
-# Contact Information
 
 Centre for Clinical Epidemiology and Evaluation
 
@@ -24,5 +20,8 @@ VCH Research Institute / The University of British Columbia
 
 Hrs: Mon - Fri: 8am to 4pm
 
----
+| Tel: `604.875.4111 ext. 67417` | Email: <eoin.vaughan@ubc.ca> |
+
+
+
 
