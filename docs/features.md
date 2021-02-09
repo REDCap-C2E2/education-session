@@ -7,6 +7,8 @@ nav_order: 5
 # New Features
 {: .no_toc }
 
+All of the new REDCap features that have been rolled out in the most recent versions explained in depth, with details on how to set them up, work with them and get the most out.
+
 ## Table of contents
 {: .no_toc .text-delta }
 
