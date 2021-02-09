@@ -37,7 +37,7 @@ Performs a date calculation by adding or subtracting a specified amount of time 
 
 Evaluates logic that is provided inside a `@CALCTEXT()` function and outputs the result as text, typically performed with an if(x,y,z) function - e.g. `@CALCTEXT(if([gender]='1', 'male', 'female'))`.
 
-## REDCap v10.0
+## REDCap v9.5
 
 ### Alerts & Notifications
 
