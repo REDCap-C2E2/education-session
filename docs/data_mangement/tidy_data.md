@@ -8,7 +8,7 @@ nav_order: 1
 # Tidy Data
 {: .no_toc }
 
-## _"Orgnanised and Consistent_
+## _"Orgnanised and Consistent"_
 
 Tidying data is a key component of data cleaning and results in easy data manipulation, modeling, visualisation and subsequent analysis. A key principle of tidy data is that it provides a standard way to organise data values within a dataset. This standard approach allows us to link the structure (physical layout) of a dataset with its semantics (meaning).
 
