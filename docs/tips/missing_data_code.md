@@ -8,6 +8,9 @@ nav_order: 2
 # Missing Code Values
 {: .no_toc }
 
+New
+{: .label .label-yellow }
+
 ## _"Missing Data, Oh it can be a pain"_
 
 ---
