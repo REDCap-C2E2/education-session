@@ -6,6 +6,7 @@ nav_order: 1
 ---
 
 # Data Import
+{: .no_toc }
 
 REDCaps Data Import tool allows a user to bulk upload records into REDCap all at once. This can be used for a whole array of reasons like uploading historical data, upload data collected from alternative data sources, record reassignment/modifications, import of data from one REDCap project to another.
 There are two primary options for importing data in to your REDCap project.
