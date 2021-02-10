@@ -17,3 +17,9 @@ allowing you to reposition field elements on a survey page or data entry form so
 It opens up so much opportunity to layout/format your forms and surveys that had been restricted in past versions of REDCap.
 
 It allows you to stack groups of related field elements together as opposed to the traditional linear layout that REDCap provided in the past.
+
+More information can be found in the following link below via REDCap.
+
+---
+
+[Embedded Fields](https://redcap.c2e2.ca/surveys/?s=73CPNWJ344){: .btn .fs-5 .mb-4 .mb-md-0 }
