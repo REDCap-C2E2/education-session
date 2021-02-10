@@ -32,7 +32,9 @@ Determine which REDCap instance best suits your needs. Identify whether your pro
 
 3. [UBC ARC REDCap Solid](https://redcap.ubc.ca/solid/)
 
-4. [BC AHSN](https://redcap.bcahsn.ca/surveys/?s=HEKETN7RF7)
+4. [UBC Faculty of Medicine REDCap](https://rc.med.ubc.ca/redcap/surveys/?s=HEAXHW4LW7)
+
+5. [BC AHSN](https://redcap.bcahsn.ca/surveys/?s=HEKETN7RF7)
 
 ---
 
